@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457830347048",
+    "firebase_url": "https://booktrade-e8bf4.firebaseio.com",
+    "project_id": "booktrade-e8bf4",
+    "storage_bucket": "booktrade-e8bf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457830347048:android:362b6f8bda613f1a17201d",
+        "android_client_info": {
+          "package_name": "com.example.booktrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457830347048-g4p02apkiau3nb5gvvq96rc56f62ca4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.booktrade",
+            "certificate_hash": "1a72006e7d0a24f7664585cbde8081d7f2c75b1f"
+          }
+        },
+        {
+          "client_id": "457830347048-h3b2bv10uchcsj07lu2i3q3t4kn5aqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqCS7k-TTHYMa-YTGAf_9ve98qK5_ebdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457830347048-h3b2bv10uchcsj07lu2i3q3t4kn5aqtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
